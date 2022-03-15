@@ -1,0 +1,78 @@
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\obj\Debug\CF RepositoryPattern.csproj.AssemblyReference.cache
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\obj\Debug\CF_RepositoryPattern.Menu.resources
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\obj\Debug\CF_RepositoryPattern.Properties.Resources.resources
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\obj\Debug\CF RepositoryPattern.csproj.GenerateResource.cache
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\obj\Debug\CF RepositoryPattern.csproj.CoreCompileInputs.cache
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\bin\Debug\CF RepositoryPattern.exe.config
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\bin\Debug\CF RepositoryPattern.exe
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\bin\Debug\CF RepositoryPattern.pdb
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\bin\Debug\BLL.dll
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\bin\Debug\Ninject.dll
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\bin\Debug\DAL.dll
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\bin\Debug\EntityFramework.dll
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\bin\Debug\BLL.pdb
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\bin\Debug\Ninject.xml
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\bin\Debug\DAL.pdb
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\bin\Debug\DAL.dll.config
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\bin\Debug\EntityFramework.xml
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\obj\Debug\CF RepositoryPattern.csproj.CopyComplete
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\obj\Debug\CF RepositoryPattern.exe
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\obj\Debug\CF RepositoryPattern.pdb
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\obj\Debug\CF_RepositoryPattern.OrderAdd.resources
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\obj\Debug\CF_RepositoryPattern.ProductAdd.resources
+D:\VS projects\CF RepositoryPattern\CF RepositoryPattern\obj\Debug\CF_RepositoryPattern.SuplierAdd.resources
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\CF RepositoryPattern.exe.config
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\CF RepositoryPattern.exe
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\CF RepositoryPattern.pdb
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\BLL.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\EntityFramework.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\EntityFramework.SqlServer.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\Ninject.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\DAL.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\BLL.pdb
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\BLL.dll.config
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\EntityFramework.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\EntityFramework.SqlServer.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\Ninject.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\DAL.pdb
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\DAL.dll.config
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\obj\Debug\CF RepositoryPattern.csproj.AssemblyReference.cache
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\obj\Debug\CF_RepositoryPattern.Menu.resources
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\obj\Debug\CF_RepositoryPattern.OrderAdd.resources
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\obj\Debug\CF_RepositoryPattern.ProductAdd.resources
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\obj\Debug\CF_RepositoryPattern.Properties.Resources.resources
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\obj\Debug\CF_RepositoryPattern.SuplierAdd.resources
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\obj\Debug\CF RepositoryPattern.csproj.GenerateResource.cache
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\obj\Debug\CF RepositoryPattern.csproj.CoreCompileInputs.cache
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\obj\Debug\CF RepositoryPattern.csproj.CopyComplete
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\obj\Debug\CF RepositoryPattern.exe
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\obj\Debug\CF RepositoryPattern.pdb
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\MongoDB.Driver.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\MongoDB.Driver.Core.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\MongoDB.Bson.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\DnsClient.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\SharpCompress.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\System.Buffers.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\System.Memory.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\System.Numerics.Vectors.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\MongoDB.Driver.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\MongoDB.Driver.Core.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\MongoDB.Bson.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\DnsClient.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\System.Buffers.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\System.Memory.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\System.Numerics.Vectors.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\obj\Debug\CF RepositoryPattern.csproj.SuggestedBindingRedirects.cache
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\libzstd.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\snappy32.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\snappy64.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\libsnappy64.so
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\libzstd.so
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\libsnappy64.dylib
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\libzstd.dylib
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\CF RepositoryPattern\bin\Debug\mongocrypt.dll

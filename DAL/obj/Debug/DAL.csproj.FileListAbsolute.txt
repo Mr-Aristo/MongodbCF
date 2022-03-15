@@ -1,0 +1,58 @@
+D:\VS projects\CF RepositoryPattern\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\VS projects\CF RepositoryPattern\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\VS projects\CF RepositoryPattern\DAL\bin\Debug\DAL.dll.config
+D:\VS projects\CF RepositoryPattern\DAL\bin\Debug\DAL.dll
+D:\VS projects\CF RepositoryPattern\DAL\bin\Debug\DAL.pdb
+D:\VS projects\CF RepositoryPattern\DAL\bin\Debug\EntityFramework.dll
+D:\VS projects\CF RepositoryPattern\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS projects\CF RepositoryPattern\DAL\bin\Debug\EntityFramework.xml
+D:\VS projects\CF RepositoryPattern\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS projects\CF RepositoryPattern\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\VS projects\CF RepositoryPattern\DAL\obj\Debug\DAL.dll
+D:\VS projects\CF RepositoryPattern\DAL\obj\Debug\DAL.pdb
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\libzstd.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\snappy32.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\snappy64.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\libsnappy64.so
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\libzstd.so
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\libsnappy64.dylib
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\libzstd.dylib
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\mongocrypt.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\DAL.dll.config
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\DAL.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\DAL.pdb
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\DnsClient.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\EntityFramework.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\MongoDB.Bson.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\MongoDB.Driver.Core.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\MongoDB.Driver.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\SharpCompress.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\System.Buffers.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\System.Memory.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\System.Security.AccessControl.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\System.Security.Principal.Windows.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\DnsClient.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\EntityFramework.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\MongoDB.Bson.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\MongoDB.Driver.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\MongoDB.Driver.Core.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\System.Buffers.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\System.Memory.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\System.Security.AccessControl.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\System.Security.Principal.Windows.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\obj\Debug\DAL.dll
+D:\LABS\Fomina Lab\My  labs\CF RP Lab-7\DAL\obj\Debug\DAL.pdb
